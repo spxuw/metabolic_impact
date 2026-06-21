@@ -12,8 +12,6 @@ library(ggrepel)
 library(stringr)
 
 
-setwd("/Users/xuwenwang/Library/CloudStorage/Dropbox/Projects/KeyPlasma/code")
-
 rm(list = ls())
 
 custom_theme <- theme_bw() +
