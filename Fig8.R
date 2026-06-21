@@ -16,8 +16,6 @@ library(pROC)
 library(purrr)
 
 
-setwd("/Users/xuwenwang/Library/CloudStorage/Dropbox/Projects/KeyPlasma/code")
-
 custom_theme <- theme_bw() +
   theme(
     panel.grid.major = element_blank(),
