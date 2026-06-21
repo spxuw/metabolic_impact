@@ -10,7 +10,6 @@ library(ggridges)
 library(reshape2)
 library(ggrepel)
 
-setwd("/Users/xuwenwang/Library/CloudStorage/Dropbox/Projects/KeyPlasma/code")
 
 custom_theme <- theme_bw() +
   theme(
