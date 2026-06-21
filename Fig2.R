@@ -11,8 +11,6 @@ library(ggridges)
 library(reshape2)
 library(bipartite)
 
-setwd("/Users/xuwenwang/Library/CloudStorage/Dropbox/Projects/KeyPlasma/code")
-
 custom_theme <- theme_bw() +
   theme(
     panel.grid.major = element_blank(),
