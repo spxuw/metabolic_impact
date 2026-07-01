@@ -1,6 +1,6 @@
 # Microbiome Perturbation Modeling of Plasma Metabolic Impact
 
-This repository provides code for a perturbation-based framework to model how changes in gut microbial community structure may propagate to host plasma metabolite profiles. The workflow uses species-level microbiome profiles from curatedMetagenomicData to train a community reconstruction model, performs in silico single- and pairwise-species perturbations, predicts the resulting post-perturbation microbiome composition, and projects these predicted compositions onto a microbiome–metabolite association matrix to estimate metabolic impact.
+This repository provides code for a perturbation-based framework to model how changes in gut microbial community structure may propagate to host plasma metabolite profiles. The workflow uses genus-level microbiome profiles from curatedMetagenomicData to train a community reconstruction model, performs in silico single- and pairwise-species perturbations, predicts the resulting post-perturbation microbiome composition, and projects these predicted compositions onto a microbiome–metabolite association matrix to estimate metabolic impact.
 
 ## Overview
 
